@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Currently a Ph.D. Student on Geomatics Engineering at University of Calgary.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Position & Navigation.
 
 ### Contact me
 
