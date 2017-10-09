@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Currently a Ph.D. Student on Geomatics Engineering at University of Calgary.
+Currently a Ph.D. Student working on Geomatics Engineering at University of Calgary.
 
 ### More Information
 
