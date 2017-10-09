@@ -1,5 +1,5 @@
 ---
-layout: First Blog
+layout: post
 title: Hello GitHub!
 ---
 
